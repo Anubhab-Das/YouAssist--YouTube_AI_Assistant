@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-**YouGPT** is a YouTube transcript summarization and chat assistant powered by LLMs. It allows users to extract, summarize, and interact with video transcripts, providing concise insights without watching the full video. Incorporated with LLM-Guard to ensure secure end-to-end usage.
+**YouAssist** is a YouTube transcript summarization and chat assistant powered by LLMs. It allows users to extract, summarize, and interact with video transcripts, providing concise insights without watching the full video. Incorporated with LLM-Guard to ensure secure end-to-end usage.
 
 🔹 Extracts video transcripts based on custom start time and duration.  
 🔹 Summarizes transcripts using OpenAI. 
