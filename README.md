@@ -72,6 +72,11 @@ streamlit run app.py
 - **🛡 LLM Guard:** Scans user input/output for harmful content.
 - **📌 Caching:** Avoids redundant API calls using `lru_cache()`.
 
+## Sample Output:
+
+![Screenshot 2025-03-17 at 3 05 45 PM](https://github.com/user-attachments/assets/116cf17a-9e58-400a-beb8-90a9786a9607)
+
+
 ## 🔥 Future Enhancements
 ✅ Integrate speech-to-text for non-captioned videos.  
 ✅ Add multi-language support for transcripts.  
