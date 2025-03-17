@@ -1,4 +1,4 @@
-# YouGPT - Your Own YouTube GPT Assistant 🎥🤖
+# YouAssist - Your Own YouTube Assistant 🎥🤖
 
 
 
