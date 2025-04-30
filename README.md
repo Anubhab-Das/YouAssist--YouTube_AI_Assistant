@@ -21,6 +21,27 @@
 - ⚡ **Optimized Performance** – Includes caching, security scanning, and efficient chunking.
 - 🎨 **User-Friendly UI** – Styled with a dark mode toggle, animations, and a clean layout.
 
+Project Overview:
+An AI agent that extracts video transcripts from YouTube and summarizes them into concise, readable text using LangGraph-based workflows.
+
+Key Features:
+
+Automated transcript extraction.
+LangGraph-based summarization logic.
+Lightweight interface for user interaction.
+Technologies Used:
+
+Languages: Python
+Frameworks: LangGraph
+APIs: YouTube Data API
+
+Workflow:
+
+User provides a YouTube video link.
+Transcripts are fetched using the YouTube API.
+LangGraph routes the transcript through a summarization agent.
+Final summary is displayed or stored.
+
 ## 📂 Project Structure
 
 ```
